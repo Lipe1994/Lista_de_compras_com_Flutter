@@ -42,4 +42,4 @@ Projeto no figma https://www.figma.com/file/Lq5FiC5N9sEdV5bCHqKtYq/Lista-de-comp
 
 5 - Contando que este app usa o firebase para armazenamento de dados, não se esqueça de criar regras se gurança no firestore.
 
-6 - Veja mais sobre configurações do firebase em https://firebase.flutter.dev/docs/manual-installation
+6 - Veja mais sobre configurações do firebase em https://firebase.flutter.dev/docs/manual-installation e em seguida habilite o uso do auth, firestore, crashlytcs e analytcs.
